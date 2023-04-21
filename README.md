@@ -25,7 +25,7 @@ To run this project, you need to have docker installed on your machine.
 To start the server, run the following command:
 
 ```
-docker-compose-up
+docker-compose up
 ```
 
 This will start the server and listen on port 3000. You can access the application in your web browser by visiting [http://localhost:3000](http://localhost:3000).
